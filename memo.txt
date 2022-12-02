@@ -59,4 +59,7 @@ JDBC API, H2 Database
 
 4) ERROR CommandLiner
     java.lang.IllegalStateException: Failed to execute CommandLineRunner
-
+5) ESSAI CommandLiner
+    add spring.batch.job.enabled = false in application.properties
+    => not resolve
+    https://stackoverflow.com/questions/50190952/failed-to-execute-commandlinerunner-spring-batch
