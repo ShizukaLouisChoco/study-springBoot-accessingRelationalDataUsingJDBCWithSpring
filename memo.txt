@@ -57,4 +57,6 @@ JDBC API, H2 Database
     2019-09-26 13:46:58.835  INFO 47569 --- [           main] c.e.r.RelationalDataAccessApplication    : Customer[id=3, firstName='Josh', lastName='Bloch']
     2019-09-26 13:46:58.835  INFO 47569 --- [           main] c.e.r.RelationalDataAccessApplication    : Customer[id=4, firstName='Josh', lastName='Long']COPY
 
+4) ERROR CommandLiner
+    java.lang.IllegalStateException: Failed to execute CommandLineRunner
 
