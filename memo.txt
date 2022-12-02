@@ -63,3 +63,6 @@ JDBC API, H2 Database
     add spring.batch.job.enabled = false in application.properties
     => not resolve
     https://stackoverflow.com/questions/50190952/failed-to-execute-commandlinerunner-spring-batch
+
+6) Summary
+    Conglaturations! You have just used Spring to develop a simple JDBC client
